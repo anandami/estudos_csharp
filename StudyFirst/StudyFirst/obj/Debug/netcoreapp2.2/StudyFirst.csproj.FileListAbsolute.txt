@@ -1,0 +1,10 @@
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\obj\Debug\netcoreapp2.2\StudyFirst.csproj.CoreCompileInputs.cache
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\obj\Debug\netcoreapp2.2\StudyFirst.AssemblyInfoInputs.cache
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\obj\Debug\netcoreapp2.2\StudyFirst.AssemblyInfo.cs
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\bin\Debug\netcoreapp2.2\StudyFirst.deps.json
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\bin\Debug\netcoreapp2.2\StudyFirst.runtimeconfig.json
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\bin\Debug\netcoreapp2.2\StudyFirst.runtimeconfig.dev.json
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\bin\Debug\netcoreapp2.2\StudyFirst.dll
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\bin\Debug\netcoreapp2.2\StudyFirst.pdb
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\obj\Debug\netcoreapp2.2\StudyFirst.dll
+C:\Users\Ananda\source\repos\StudyFirst\StudyFirst\obj\Debug\netcoreapp2.2\StudyFirst.pdb

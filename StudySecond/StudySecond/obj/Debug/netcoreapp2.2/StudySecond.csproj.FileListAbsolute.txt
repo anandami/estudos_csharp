@@ -1,0 +1,11 @@
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\bin\Debug\netcoreapp2.2\StudySecond.deps.json
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\bin\Debug\netcoreapp2.2\StudySecond.runtimeconfig.json
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\bin\Debug\netcoreapp2.2\StudySecond.runtimeconfig.dev.json
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\bin\Debug\netcoreapp2.2\StudySecond.dll
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\bin\Debug\netcoreapp2.2\StudySecond.pdb
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\obj\Debug\netcoreapp2.2\StudySecond.csprojAssemblyReference.cache
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\obj\Debug\netcoreapp2.2\StudySecond.csproj.CoreCompileInputs.cache
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\obj\Debug\netcoreapp2.2\StudySecond.AssemblyInfoInputs.cache
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\obj\Debug\netcoreapp2.2\StudySecond.AssemblyInfo.cs
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\obj\Debug\netcoreapp2.2\StudySecond.dll
+C:\Users\Ananda\source\repos\StudySecond\StudySecond\obj\Debug\netcoreapp2.2\StudySecond.pdb
