@@ -1,0 +1,11 @@
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.exe
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.deps.json
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.pdb
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Users\Ananda\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.pdb
