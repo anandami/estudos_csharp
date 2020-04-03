@@ -1,0 +1,11 @@
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\bin\Debug\netcoreapp3.0\RendimentoLongoPrazo.exe
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\bin\Debug\netcoreapp3.0\RendimentoLongoPrazo.deps.json
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\bin\Debug\netcoreapp3.0\RendimentoLongoPrazo.runtimeconfig.json
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\bin\Debug\netcoreapp3.0\RendimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\bin\Debug\netcoreapp3.0\RendimentoLongoPrazo.dll
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\bin\Debug\netcoreapp3.0\RendimentoLongoPrazo.pdb
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\obj\Debug\netcoreapp3.0\RendimentoLongoPrazo.csprojAssemblyReference.cache
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\obj\Debug\netcoreapp3.0\RendimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\obj\Debug\netcoreapp3.0\RendimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\obj\Debug\netcoreapp3.0\RendimentoLongoPrazo.dll
+C:\Users\Ananda\source\repos\RendimentoLongoPrazo\RendimentoLongoPrazo\obj\Debug\netcoreapp3.0\RendimentoLongoPrazo.pdb

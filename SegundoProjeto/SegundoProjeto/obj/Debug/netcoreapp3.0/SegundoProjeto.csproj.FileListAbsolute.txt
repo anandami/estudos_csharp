@@ -1,0 +1,11 @@
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\bin\Debug\netcoreapp3.0\SegundoProjeto.exe
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\bin\Debug\netcoreapp3.0\SegundoProjeto.deps.json
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\bin\Debug\netcoreapp3.0\SegundoProjeto.runtimeconfig.json
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\bin\Debug\netcoreapp3.0\SegundoProjeto.runtimeconfig.dev.json
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\bin\Debug\netcoreapp3.0\SegundoProjeto.dll
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\bin\Debug\netcoreapp3.0\SegundoProjeto.pdb
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\obj\Debug\netcoreapp3.0\SegundoProjeto.csprojAssemblyReference.cache
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\obj\Debug\netcoreapp3.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\obj\Debug\netcoreapp3.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\obj\Debug\netcoreapp3.0\SegundoProjeto.dll
+C:\Users\Ananda\source\repos\SegundoProjeto\SegundoProjeto\obj\Debug\netcoreapp3.0\SegundoProjeto.pdb

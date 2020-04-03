@@ -1,0 +1,11 @@
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.exe
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.deps.json
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.runtimeconfig.json
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.runtimeconfig.dev.json
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.dll
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\bin\Debug\netcoreapp3.0\ParImpar.pdb
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.csprojAssemblyReference.cache
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.AssemblyInfoInputs.cache
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.AssemblyInfo.cs
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.dll
+C:\Users\Ananda\source\repos\ParImpar\ParImpar\obj\Debug\netcoreapp3.0\ParImpar.pdb

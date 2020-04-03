@@ -1,0 +1,10 @@
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\bin\Debug\netcoreapp3.0\CondicaoHora.exe
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\bin\Debug\netcoreapp3.0\CondicaoHora.deps.json
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\bin\Debug\netcoreapp3.0\CondicaoHora.runtimeconfig.json
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\bin\Debug\netcoreapp3.0\CondicaoHora.runtimeconfig.dev.json
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\bin\Debug\netcoreapp3.0\CondicaoHora.dll
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\bin\Debug\netcoreapp3.0\CondicaoHora.pdb
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\obj\Debug\netcoreapp3.0\CondicaoHora.AssemblyInfoInputs.cache
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\obj\Debug\netcoreapp3.0\CondicaoHora.AssemblyInfo.cs
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\obj\Debug\netcoreapp3.0\CondicaoHora.dll
+C:\Users\Ananda\source\repos\CondicaoHora\CondicaoHora\obj\Debug\netcoreapp3.0\CondicaoHora.pdb
