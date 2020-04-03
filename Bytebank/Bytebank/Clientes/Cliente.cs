@@ -12,7 +12,7 @@ namespace Bytebank.Clientes {
         public string Cidade { get; set; }
         public string UF { get; set; }
 
-        public static int TotalClientes { get; set; }
+        private static int TotalClientes { get; set; }
 
         public Cliente (string nome, string cpf) {
             Nome = nome;
