@@ -5,7 +5,7 @@ using System.Text;
 namespace Bytebank.Funcionarios {
     class Diretor:Funcionario {
         public override double GetBonificacao() {
-            return Salario;
+            return (Salario + base.GetBonificacao());
         }
     }
 }
