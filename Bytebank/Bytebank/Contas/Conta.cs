@@ -10,6 +10,11 @@ namespace Bytebank.Contas {
         public int Agencia { get; set; }
         public int Numero { get; set; }
         public double Saldo { get; set; }
-        
+
+        public static int TotalContas { get; private set; }
+
+        public Conta() {
+            TotalContas++;
+        }
     }
 }

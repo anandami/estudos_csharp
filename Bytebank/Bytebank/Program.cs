@@ -38,16 +38,20 @@ namespace Bytebank {
             Console.WriteLine(lucas.Nome);
             Console.WriteLine(lucas.CPF);
             Console.WriteLine(lucas.Salario);
+            Console.WriteLine("Total de funcionarios: " + Funcionario.TotalFuncionario);
             GerenciadorBonificacao bonif1 = new GerenciadorBonificacao();
             bonif1.Registrar(lucas);
             Console.WriteLine(cleide);
             Console.WriteLine(cleide.Nome);
             Console.WriteLine(cleide.CPF);
             Console.WriteLine(cleide.Salario);
+            Console.WriteLine("Total de funcionarios: " + Funcionario.TotalFuncionario);
             GerenciadorBonificacao bonif2 = new GerenciadorBonificacao();
             bonif1.Registrar(cleide);
+            
             Console.WriteLine("Bonificacao de " + lucas.Nome + ":" + lucas.GetBonificacao());
             Console.WriteLine("Bonificacao de " + cleide.Nome + ":" + cleide.GetBonificacao());
+            
             Console.WriteLine();
             Console.WriteLine("Clientes:");
             Console.WriteLine(ananda);
@@ -55,6 +59,7 @@ namespace Bytebank {
             Console.WriteLine(ananda.Cpf);
             Console.WriteLine();
             Console.WriteLine("Conta em aberto");
+            Console.WriteLine("Total de contas: " + Conta.TotalContas);
             Console.WriteLine(primeiraConta);
             Console.WriteLine("Titular da conta " + primeiraConta.Titular.Nome);
             Console.WriteLine(primeiraConta.Agencia);
