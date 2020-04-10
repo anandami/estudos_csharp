@@ -10,7 +10,7 @@ namespace Bytebank.Funcionarios {
         }
         //métodos (sem retorno) e funções (com retorno)
         public override double GetBonificacao() {
-            return (Salario + base.GetBonificacao());
+            return (Salario*0.5);
         }
 
         public override void AumentarSalario () {
