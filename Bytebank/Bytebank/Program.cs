@@ -20,34 +20,35 @@ namespace Bytebank {
             primeiraConta.Agencia = 0100;
             primeiraConta.Saldo = 1000;
 
-            Funcionario lucas = new Funcionario();
+            Funcionario lucas = new Funcionario(2000,"123.321.132-31");
             lucas.Nome = "Lucas Fernandes Pessoa";
-            lucas.CPF = "123.543.654-87";
             lucas.RG = 11234563;
-            lucas.Salario = 5000;
-
-            Funcionario cleide = new Diretor();
+                        
+            Funcionario cleide = new Diretor("534.345.634-22");
             cleide.Nome = "Cleide R da Silva Michelino";
-            cleide.CPF = "999.999.999-99";
             cleide.RG = 88888888;
-            cleide.Salario = 10000;
-
-            Console.WriteLine("Impressão de dados do Banco");
+            
             Console.WriteLine("Funcionarios do banco:");
             Console.WriteLine(lucas);
             Console.WriteLine(lucas.Nome);
             Console.WriteLine(lucas.CPF);
             Console.WriteLine(lucas.Salario);
+            lucas.AumentarSalario();
+            Console.WriteLine("Novo salario pós aumento: " + lucas.Salario);
             Console.WriteLine("Total de funcionarios: " + Funcionario.TotalFuncionario);
             GerenciadorBonificacao bonif1 = new GerenciadorBonificacao();
+            
             bonif1.Registrar(lucas);
             Console.WriteLine(cleide);
             Console.WriteLine(cleide.Nome);
             Console.WriteLine(cleide.CPF);
             Console.WriteLine(cleide.Salario);
+            cleide.AumentarSalario();
+            Console.WriteLine("Novo salario pós aumento: " + cleide.Salario);
+
             Console.WriteLine("Total de funcionarios: " + Funcionario.TotalFuncionario);
             GerenciadorBonificacao bonif2 = new GerenciadorBonificacao();
-            bonif1.Registrar(cleide);
+            bonif2.Registrar(cleide);
             
             Console.WriteLine("Bonificacao de " + lucas.Nome + ":" + lucas.GetBonificacao());
             Console.WriteLine("Bonificacao de " + cleide.Nome + ":" + cleide.GetBonificacao());
