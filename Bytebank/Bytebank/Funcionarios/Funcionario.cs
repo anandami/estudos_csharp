@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Bytebank.Funcionarios {
-    class Funcionario {
+    public abstract class Funcionario {
 
         //propriedades
         public string Nome { get; set; }
