@@ -15,24 +15,33 @@ namespace Bytebank.Funcionarios {
         //salario protegido - acessível para a classe-mãe e classes filhas
         public double Salario { get; protected set; }
 
-        public virtual double GetBonificacao() { 
-            return Salario * 0.10;
-        }
-        
-        //métodos
+        //método estático para somar o total de funcionarios que forem criados durante a execução
         public static int TotalFuncionario { get; private set; }
 
+        //métodos abstratos - não contém lógica interna
+        public abstract double GetBonificacao ();
 
-        public virtual void AumentarSalario () {
-            Salario *= 1.1;
-        }
+        public abstract void AumentarSalario ();
 
-        //construtor
-        public Funcionario (double _salario, string _cpf) {
+        //construtores
+        /*por padrão, o salario inicial será R$1500,00, então poderia deixar este código abaixo descomentado
+        public Funcionario (string _cpf) {
             Console.WriteLine("Criando FUNCIONÁRIO");
+            Salario = 1500;
+            CPF = _cpf;
+            TotalFuncionario++;
+        }
+            ou fazer um mais economico que tem o mesmo significado:
+        */
+
+        public Funcionario (string _cpf) : this(1500, _cpf) {
+            // o this no construtor indica qual construtor será executado antes
+        }
+        public Funcionario(double _salario, string _cpf) {
             Salario = _salario;
             CPF = _cpf;
             TotalFuncionario++;
         }
+
     }
 }
