@@ -1,13 +1,14 @@
-﻿using System;
+﻿using Bytebank.Sistema;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Bytebank.Funcionarios {
-    class GerenteDeConta:Funcionario {
+    class GerenteDeConta:Autenticavel {
 
         //construtor
         public GerenteDeConta(string _cpf) : base(4000, _cpf) {
-
+            Console.WriteLine("Criando Gerente de Conta");
         }
 
         //métodos sobrepostos
