@@ -4,8 +4,19 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Bytebank.Funcionarios {
-    class GerenteDeConta:Autenticavel {
+    class GerenteDeConta:Funcionario, Autenticavel {
 
+        public string Senha { get; set; }
+
+        public bool Autenticar (string _senha) {
+
+            if (Senha == _senha) {
+                return true;
+            } else {
+                return false;
+            }
+
+        }
         //construtor
         public GerenteDeConta(string _cpf) : base(4000, _cpf) {
             Console.WriteLine("Criando Gerente de Conta");
