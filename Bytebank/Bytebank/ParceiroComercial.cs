@@ -5,7 +5,7 @@ using System.Text;
 
 
 namespace Bytebank {
-    class ParceiroComercial: Autenticavel {
+    class ParceiroComercial: IAutenticavel {
 
         public string Senha { get; set; }
 
