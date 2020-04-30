@@ -1,0 +1,13 @@
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/bin/Debug/netcoreapp3.1/testeDeExcecoes
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/bin/Debug/netcoreapp3.1/testeDeExcecoes.deps.json
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/bin/Debug/netcoreapp3.1/testeDeExcecoes.runtimeconfig.json
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/bin/Debug/netcoreapp3.1/testeDeExcecoes.runtimeconfig.dev.json
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/bin/Debug/netcoreapp3.1/testeDeExcecoes.dll
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/bin/Debug/netcoreapp3.1/testeDeExcecoes.pdb
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/obj/Debug/netcoreapp3.1/testeDeExcecoes.csprojAssemblyReference.cache
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/obj/Debug/netcoreapp3.1/testeDeExcecoes.csproj.CoreCompileInputs.cache
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/obj/Debug/netcoreapp3.1/testeDeExcecoes.AssemblyInfoInputs.cache
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/obj/Debug/netcoreapp3.1/testeDeExcecoes.AssemblyInfo.cs
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/obj/Debug/netcoreapp3.1/testeDeExcecoes.dll
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/obj/Debug/netcoreapp3.1/testeDeExcecoes.pdb
+/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes/obj/Debug/netcoreapp3.1/testeDeExcecoes.genruntimeconfig.cache

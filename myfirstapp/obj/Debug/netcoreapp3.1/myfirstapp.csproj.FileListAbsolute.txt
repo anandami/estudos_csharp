@@ -1,0 +1,13 @@
+/home/ananda/Documentos/dotnet/myfirstapp/bin/Debug/netcoreapp3.1/myfirstapp
+/home/ananda/Documentos/dotnet/myfirstapp/bin/Debug/netcoreapp3.1/myfirstapp.deps.json
+/home/ananda/Documentos/dotnet/myfirstapp/bin/Debug/netcoreapp3.1/myfirstapp.runtimeconfig.json
+/home/ananda/Documentos/dotnet/myfirstapp/bin/Debug/netcoreapp3.1/myfirstapp.runtimeconfig.dev.json
+/home/ananda/Documentos/dotnet/myfirstapp/bin/Debug/netcoreapp3.1/myfirstapp.dll
+/home/ananda/Documentos/dotnet/myfirstapp/bin/Debug/netcoreapp3.1/myfirstapp.pdb
+/home/ananda/Documentos/dotnet/myfirstapp/obj/Debug/netcoreapp3.1/myfirstapp.csprojAssemblyReference.cache
+/home/ananda/Documentos/dotnet/myfirstapp/obj/Debug/netcoreapp3.1/myfirstapp.csproj.CoreCompileInputs.cache
+/home/ananda/Documentos/dotnet/myfirstapp/obj/Debug/netcoreapp3.1/myfirstapp.AssemblyInfoInputs.cache
+/home/ananda/Documentos/dotnet/myfirstapp/obj/Debug/netcoreapp3.1/myfirstapp.AssemblyInfo.cs
+/home/ananda/Documentos/dotnet/myfirstapp/obj/Debug/netcoreapp3.1/myfirstapp.dll
+/home/ananda/Documentos/dotnet/myfirstapp/obj/Debug/netcoreapp3.1/myfirstapp.pdb
+/home/ananda/Documentos/dotnet/myfirstapp/obj/Debug/netcoreapp3.1/myfirstapp.genruntimeconfig.cache
