@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/testeDeExcecoes2.csproj",
-      "projectName": "testeDeExcecoes2",
-      "projectPath": "/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/testeDeExcecoes2.csproj",
+      "projectUniqueName": "/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/testeDeExcecoes3.csproj",
+      "projectName": "testeDeExcecoes3",
+      "projectPath": "/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/testeDeExcecoes3.csproj",
       "packagesPath": "/home/ananda/.nuget/packages/",
-      "outputPath": "/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/",
+      "outputPath": "/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ananda/.nuget/NuGet/NuGet.Config"

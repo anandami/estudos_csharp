@@ -26,6 +26,7 @@ namespace testeDeExcecoes2
                 string track = erro.StackTrace;
                 System.Console.WriteLine(message);
                 System.Console.WriteLine(track);
+            
             }
                         
         }

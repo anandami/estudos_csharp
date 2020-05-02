@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DQYSoIRZdxWPCHVD1i82ckdh0EmORraFCKVaBE5KxWX3gNIL5fWshATSsELYS+2Bp7dxNEz5UWmFxvjNM2c1Gg==",
+  "dgSpecHash": "W7PUEvFlaZEl+Jx5WizhtkuO559cJSxzrrWK6Eq615/n2uzCEP7O+L1Q+rHlXfamwI8aIt5DtlOTddmfyw9f5w==",
   "success": true,
-  "projectFilePath": "/home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes2/testeDeExcecoes2.csproj",
+  "projectFilePath": "/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/testeDeExcecoes2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

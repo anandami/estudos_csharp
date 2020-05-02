@@ -1,0 +1,13 @@
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/Debug/netcoreapp3.1/testeDeExcecoes3.csprojAssemblyReference.cache
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/Debug/netcoreapp3.1/testeDeExcecoes3.csproj.CoreCompileInputs.cache
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/Debug/netcoreapp3.1/testeDeExcecoes3.AssemblyInfoInputs.cache
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/Debug/netcoreapp3.1/testeDeExcecoes3.AssemblyInfo.cs
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/bin/Debug/netcoreapp3.1/testeDeExcecoes3
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/bin/Debug/netcoreapp3.1/testeDeExcecoes3.deps.json
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/bin/Debug/netcoreapp3.1/testeDeExcecoes3.runtimeconfig.json
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/bin/Debug/netcoreapp3.1/testeDeExcecoes3.runtimeconfig.dev.json
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/bin/Debug/netcoreapp3.1/testeDeExcecoes3.dll
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/bin/Debug/netcoreapp3.1/testeDeExcecoes3.pdb
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/Debug/netcoreapp3.1/testeDeExcecoes3.dll
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/Debug/netcoreapp3.1/testeDeExcecoes3.pdb
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes3/obj/Debug/netcoreapp3.1/testeDeExcecoes3.genruntimeconfig.cache

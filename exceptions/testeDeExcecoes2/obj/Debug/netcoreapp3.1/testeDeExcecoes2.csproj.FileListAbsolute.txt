@@ -11,3 +11,16 @@
 /home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.dll
 /home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.pdb
 /home/ananda/Documentos/dotnet/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.genruntimeconfig.cache
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/bin/Debug/netcoreapp3.1/testeDeExcecoes2
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/bin/Debug/netcoreapp3.1/testeDeExcecoes2.deps.json
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/bin/Debug/netcoreapp3.1/testeDeExcecoes2.runtimeconfig.json
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/bin/Debug/netcoreapp3.1/testeDeExcecoes2.runtimeconfig.dev.json
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/bin/Debug/netcoreapp3.1/testeDeExcecoes2.dll
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/bin/Debug/netcoreapp3.1/testeDeExcecoes2.pdb
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.csprojAssemblyReference.cache
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.csproj.CoreCompileInputs.cache
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.AssemblyInfoInputs.cache
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.AssemblyInfo.cs
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.dll
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.pdb
+/home/ananda/Documentos/estudos_csharp/estudos_csharp/exceptions/testeDeExcecoes2/obj/Debug/netcoreapp3.1/testeDeExcecoes2.genruntimeconfig.cache
