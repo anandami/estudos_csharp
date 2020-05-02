@@ -15,10 +15,18 @@ namespace Bytebank.Contas {
 
         //construtor
         public Conta(int agencia, int numero) {
-
-            if (agencia <= 0 || numero <= 0){
-                throw new ArgumentException("Agencia ou número não podem ter valores iguais ou menores que zero.");
+            System.Console.WriteLine("Iniciando criacao de conta.......");
+            
+            if (agencia <= 0){
+                throw new ArgumentException("Agencia com valor menor ou igual a zero.", nameof(agencia));
             }
+            if (numero <=0){
+                throw new ArgumentException("Numero da conta com valor menor ou igual a zero.", nameof(numero));
+            }
+            //atribuicao
+            Agencia = agencia;
+            Numero = numero;
+
             TotalContas++;
         }
     }

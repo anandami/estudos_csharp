@@ -10,8 +10,8 @@ namespace Bytebank {
 
             //CalcularBonificacao();
             //UsarSistema();
-            //CriarContaCorrente();
-
+            CriarContaCorrente();
+            
             Console.ReadLine();
             
         }
@@ -66,9 +66,20 @@ namespace Bytebank {
         }
 
         public static void CriarContaCorrente(){
-            ClienteCorrente ananda = new ClienteCorrente("Ananda", "123.345.232-22");
-
-            ContaCorrente conta1 = new ContaCorrente(123,456);
+            try{
+                ClienteCorrente ananda = new ClienteCorrente("Ananda", "123.345.232-22");
+                System.Console.WriteLine(ananda.Nome);
+                System.Console.WriteLine(ananda.Cpf);
+                ContaCorrente conta1 = new ContaCorrente(123,0);
+                conta1.Titular = ananda;
+                System.Console.WriteLine(conta1.Agencia); 
+                System.Console.WriteLine(conta1.Numero);
+            }
+            catch(ArgumentException e){
+                System.Console.WriteLine(e.Message);
+                System.Console.WriteLine(e.ParamName);
+            }
+            
 
         }
     }
