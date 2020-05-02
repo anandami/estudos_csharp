@@ -8,8 +8,9 @@ namespace Bytebank {
     class Program {
         static void Main (string[] args) {
 
-            CalcularBonificacao();
-            UsarSistema();
+            //CalcularBonificacao();
+            //UsarSistema();
+            //CriarContaCorrente();
 
             Console.ReadLine();
             
@@ -61,6 +62,13 @@ namespace Bytebank {
             gerenciador.Registrar(camila);
 
             Console.WriteLine("Total de Bonificações: R$" + gerenciador.GetTotalBonificacao());
+
+        }
+
+        public static void CriarContaCorrente(){
+            ClienteCorrente ananda = new ClienteCorrente("Ananda", "123.345.232-22");
+
+            ContaCorrente conta1 = new ContaCorrente(123,456);
 
         }
     }

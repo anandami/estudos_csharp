@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Bytebank.Contas {
-    class Conta {
+    public abstract class Conta {
 
-        public Cliente Titular { get; set; }
+        public ClienteCorrente Titular { get; set; }
         public int Agencia { get; } //valor readonly - somente setado no construtor
         public int Numero { get; } //valor readonly - somente setado no construtor
         public double Saldo { get; set; }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Bytebank.Clientes {
-    class Cliente {
+    public abstract class Cliente {
         public string Nome { get; set; }
         public string Cpf { get; set; }
         public int RG { get; set; }
