@@ -18,7 +18,7 @@ namespace testeDeExcecoes3
                 System.Console.WriteLine(message);
                 System.Console.WriteLine(track);
                 System.Console.WriteLine("Fim!");
-                
+                throw;
             }
             
         }

@@ -7,13 +7,18 @@ namespace Bytebank.Contas {
     class Conta {
 
         public Cliente Titular { get; set; }
-        public int Agencia { get; set; }
-        public int Numero { get; set; }
+        public int Agencia { get; } //valor readonly - somente setado no construtor
+        public int Numero { get; } //valor readonly - somente setado no construtor
         public double Saldo { get; set; }
 
         public static int TotalContas { get; private set; }
 
-        public Conta() {
+        //construtor
+        public Conta(int agencia, int numero) {
+
+            if (agencia <= 0 || numero <= 0){
+                throw new ArgumentException("Agencia ou número não podem ter valores iguais ou menores que zero.");
+            }
             TotalContas++;
         }
     }
