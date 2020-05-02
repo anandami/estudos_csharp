@@ -5,7 +5,8 @@ using System.Text;
 
 namespace Bytebank.Contas {
     public abstract class Conta {
-
+        
+        //Propriedades
         public ClienteCorrente Titular { get; set; }
         public int Agencia { get; } //valor readonly - somente setado no construtor
         public int Numero { get; } //valor readonly - somente setado no construtor
@@ -28,6 +29,18 @@ namespace Bytebank.Contas {
             Numero = numero;
 
             TotalContas++;
+        }
+
+        //Métodos 
+        public void Sacar(double valor){
+            if (Saldo < valor){
+                throw new SaldoInsuficienteException();
+            }
+            Saldo -= valor;
+        }
+        public void Depositar(double valor){
+            Saldo += valor;
+            
         }
     }
 }
