@@ -10,8 +10,17 @@ namespace Bytebank.Contas {
         public ClienteCorrente Titular { get; set; }
         public int Agencia { get; } //valor readonly - somente setado no construtor
         public int Numero { get; } //valor readonly - somente setado no construtor
-        public double Saldo { get; set; }
+        private double _saldo;
 
+        public double Saldo{
+            get{
+                return _saldo;
+            }
+            set{
+                _saldo = value;
+            }
+        }
+       
         public static int TotalContas { get; private set; }
 
         //construtor
@@ -33,8 +42,8 @@ namespace Bytebank.Contas {
 
         //Métodos 
         public void Sacar(double valor){
-            if (Saldo < valor){
-                throw new SaldoInsuficienteException();
+            if (_saldo < valor){
+                throw new SaldoInsuficienteException(_saldo, valor);
             }
             Saldo -= valor;
         }

@@ -10,10 +10,21 @@ namespace Bytebank {
 
             //CalcularBonificacao();
             //UsarSistema();
-            CriarContaCorrente();
-            
+            //CriarContaCorrente();
+            Movimentacao();
+
             Console.ReadLine();
             
+        }
+
+        public static void Movimentacao(){
+            ContaCorrente conta1 = new ContaCorrente(123,345);
+            ContaCorrente conta2 = new ContaCorrente(123,456);
+
+            conta1.Depositar(500);
+            System.Console.WriteLine(conta1.Saldo);
+            conta1.Sacar(1000);
+            System.Console.WriteLine(conta1.Saldo);
         }
 
         public static void UsarSistema () {

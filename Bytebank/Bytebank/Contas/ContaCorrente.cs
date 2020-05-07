@@ -8,7 +8,6 @@ namespace Bytebank.Contas{
         {
             System.Console.WriteLine("ContaCorrente criada");
 
-        }
-
+        }  
     }
 }
