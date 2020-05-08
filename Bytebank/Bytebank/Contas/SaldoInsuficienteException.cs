@@ -1,8 +1,8 @@
 using System;
-using Bytebank;
+
 
 namespace Bytebank.Contas{
-    public class SaldoInsuficienteException: Exception{
+    public class SaldoInsuficienteException: OperacaoFinanceiraException{
         
         //propriedades 
         double Saldo {get;}//setter privado

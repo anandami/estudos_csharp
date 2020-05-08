@@ -10,13 +10,19 @@ namespace Bytebank.Contas {
         public ClienteCorrente Titular { get; set; }
         public int Agencia { get; } //valor readonly - somente setado no construtor
         public int Numero { get; } //valor readonly - somente setado no construtor
-        private double _saldo;
+        private double _saldo = 100;
+        public int ContadorSaquesNaoPermitidos { get; private set; }
+        public int ContadorTransferenciasNaoPermitidas { get; private set; }
+
 
         public double Saldo{
             get{
                 return _saldo;
             }
             set{
+                if (value < 0){
+                    return;
+                }
                 _saldo = value;
             }
         }
@@ -42,14 +48,33 @@ namespace Bytebank.Contas {
 
         //Métodos 
         public void Sacar(double valor){
+            //saldo menor que o valor requerido
             if (_saldo < valor){
                 throw new SaldoInsuficienteException(_saldo, valor);
+            }
+            //valor negativo
+            if (valor < 0){
+                throw new ArgumentException("Valor negativo não permitido.", nameof(valor));
             }
             Saldo -= valor;
         }
         public void Depositar(double valor){
             Saldo += valor;
             
+        }
+
+        public void Transferir(double valor, Conta contaDestino){
+            if (valor < 0){
+                throw new ArgumentException("Valor inválido para a transferência.", nameof(valor));
+            }
+            try{
+                Sacar(valor);
+            }catch(SaldoInsuficienteException ex){
+                ContadorTransferenciasNaoPermitidas++;
+                throw new OperacaoFinanceiraException("Operação não realizada.", ex);
+            }
+            
+            contaDestino.Depositar(valor);
         }
     }
 }

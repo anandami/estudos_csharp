@@ -1,8 +1,10 @@
 ﻿using Bytebank.Clientes;
 using Bytebank.Contas;
 using Bytebank.Funcionarios;
+using ByteBank;
 using ByteBank.Sistemas;
 using System;
+using System.IO;
 
 namespace Bytebank {
     class Program {
@@ -11,10 +13,56 @@ namespace Bytebank {
             //CalcularBonificacao();
             //UsarSistema();
             //CriarContaCorrente();
-            Movimentacao();
+            //Movimentacao();
+            LeitorDecontas();
 
             Console.ReadLine();
             
+        }
+        public static void LeitorDecontas(){
+            
+             using (LeitorDeArquivo leitor = new LeitorDeArquivo("teste.txt"))
+            {
+                leitor.LerProximaLinha();
+            }
+             // ---------------------------------------------
+
+            //LeitorDeArquivo leitor = null;
+            //try
+            //{
+            //    leitor = new LeitorDeArquivo("contasl.txt");
+
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Executando o finally");
+            //    if(leitor != null)
+            //    {
+            //        leitor.Fechar();
+            //    }
+            //}
+        }
+
+        private static void TestaInnerException()
+        {
+            try
+            {
+                ContaCorrente conta1 = new ContaCorrente(4564, 789684);
+                ContaCorrente conta2 = new ContaCorrente(7891, 456794);
+
+                // conta1.Transferir(10000, conta2);
+                conta1.Sacar(10000);
+            }
+            catch (OperacaoFinanceiraException e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine(e.StackTrace);
+
+                // Console.WriteLine("Informações da INNER EXCEPTION (exceção interna):");
+            }
         }
 
         public static void Movimentacao(){
